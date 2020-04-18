@@ -1,0 +1,25 @@
+{"String":"Sigit Ardianto",
+"Angka":"24",
+"Name":"String",
+"age":"Angka",
+"address":"JL.Demak Raya No.12",
+"hobbies":"Olahraga",
+"is_married":[
+    {"0":"Belum Menikah",
+     "1":"Sudah Menikah",}],
+"list_school":[
+    {"name":"SMA N 1 KAIMANA",
+    "year_in":"2010",
+    "year_out":"2013",
+    "major":"null",}
+],
+"skills":[ 
+    {"skill_name":"php",
+    "Level":"beginner",}
+],
+"interes_in_coding":[
+   { "1":"c",
+    "2":"html",
+    "3":"php",}
+]
+}
